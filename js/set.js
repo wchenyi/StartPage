@@ -125,10 +125,6 @@ var quick_list_preinstall = {
         url: "https://www.photopea.com/",
     },
     '5': {
-        title: "Github",
-        url: "https://github.com/",
-    },
-    '6': {
         title: "AirPortal",
         url: "https://airportal.cn/",
     }
