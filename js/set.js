@@ -12,6 +12,10 @@ github：https://github.com/yeetime/sou2
 由 imsyy 二次修改
 github：https://github.com/imsyy/sou2
 日期：2022-03-10
+========================================
+由 wangcy 三次修改
+github：https://github.com/wchenyi
+日期：2022-04-23
 */
 
 // 默认搜索引擎列表
@@ -67,10 +71,10 @@ var se_list_preinstall = {
     },
     '8': {
         id: 8,
-        title: "Github",
-        url: "https://github.com/search",
+        title: "Diversified search",
+        url: "https://g.vovososo.com/search",
         name: "q",
-        icon: "iconfont icon-github",
+        icon: "iconfont icon-searchengin",
     },
     '9': {
         id: 9,
@@ -92,7 +96,14 @@ var se_list_preinstall = {
         url: "https://search.jd.com/Search",
         name: "keyword",
         icon: "iconfont icon-jingdong",
-    }
+    },
+    '12': {
+        id: 12,
+        title: "gobaidugle",
+        url: "https://www.gobaidugle.com/search",
+        name: "keyword",
+        icon: "iconfont icon-xmarks-lines",
+    },
 };
 
 // 默认快捷方式
@@ -106,20 +117,20 @@ var quick_list_preinstall = {
         url: "https://github.com/",
     },
     '3': {
-        title: "V2EX",
-        url: "https://www.v2ex.com/",
+        title: "在线Win11",
+        url: "https://win11.blueedge.me/",
     },
     '4': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
+        title: "在线PS",
+        url: "https://www.photopea.com/",
     },
     '5': {
         title: "Github",
         url: "https://github.com/",
     },
     '6': {
-        title: "Github",
-        url: "https://github.com/",
+        title: "AirPortal",
+        url: "https://airportal.cn/",
     }
 };
 
