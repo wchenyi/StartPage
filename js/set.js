@@ -104,6 +104,13 @@ var se_list_preinstall = {
         name: "keyword",
         icon: "iconfont icon-xmarks-lines",
     },
+    '13': {
+        id: 13,
+        title: "搜漫",
+        url: "https://www.soman.com/search.html",
+        name: "keyword",
+        icon: "iconfont icon-xmarks-lines",
+    },
 };
 
 // 默认快捷方式
