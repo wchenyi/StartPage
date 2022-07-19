@@ -1,18 +1,17 @@
 <p>
 <strong><h2>起始页</h2></strong>
-简约的起始页
+侧重于多连接分类跳转的起始页
 </p>
 
 ### 介绍
 ![主页](https://user-images.githubusercontent.com/93115719/179702709-9fd032ee-c0a9-448b-8049-b765932e7026.jpeg)
-<img src="pic/搜索引擎.jpg"></img>
 
->尚未完成
+> 暂时告一段落
 
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [访问链接](https://wangcy.tk/startpage)
+- [访问链接](https://sou.wangcy.cf)
 
 ### 功能
 
