@@ -134,12 +134,7 @@ var quick_list_preinstall = {
     '5': {
         title: "AirPortal",
         url: "https://airportal.cn/",
-    },
-    '6': {
-        title: "书签",
-        url: "https://root-crown-817.notion.site/b9dc80fe98114117bbc857fa4d53de98/",
-    }
-};
+    };
 
 // 获取搜索引擎列表
 function getSeList() {
